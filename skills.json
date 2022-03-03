@@ -1,0 +1,36 @@
+{
+      "professional_skills": [
+        {
+            "description": "Modelagem de dados SQL",
+            "level": 75
+        },
+        {
+            "description": "Stimulsoft, Jasper Reports e Report builder",
+            "level": 60
+        },
+        {
+            "description": "Java para aplicativos Android",
+            "level": 40
+        },
+        {
+            "description": "Java para sistemas Desktop",
+            "level": 40
+        },
+        {
+            "description": "C# para sistemas Desktop",
+            "level": 70
+        },
+        {
+            "description": "english",
+            "level": 20
+        }
+    ],
+    "additional_skills": [
+        "Desenvolvimento de software",
+        "Desenvolvimento de aplicativos mobile",
+        "Modelagem de dados",
+        "Gestão de projetos",
+        "Teste de software",
+        "Análise de bancos de dados"
+    ]  
+}

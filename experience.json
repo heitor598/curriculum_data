@@ -1,0 +1,20 @@
+[
+    {
+        "occupation": "Desenvolvedor Flutter",
+        "company": "Lecupn",
+        "time": "Atual",
+        "description": "Desenvolvimento de aplicativos com framework Flutter"
+    },   
+    {
+        "occupation": "Desenvolvedor Flutter",
+        "company": "Nortesys Soluções em tecnológias",
+        "time": "Fevereiro 2018 - Novembro 2021",
+        "description": "Consultoria e análise de software, gestão de projetos, gestão de processos de desenvolvimento de sistemas, desenvolvimento de relatórios gerenciais, migração de dados com SQL Server, personalização de relatórios em sistemas ERP, testes de software e analise de banco de dados."
+    },       
+    {
+        "occupation": "Suporte técnico",
+        "company": "Rensoftware Tecnológias em Sistemas",
+        "time": "Julho 2016 - Junho 2017",
+        "description": "Atendimento ao cliente, suporte técnico, tais como: análise de sistemas ERP, implantação de sistemas e analise de banco de dados."
+    }
+]
